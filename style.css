@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(300deg, #100f49d2, #5b0f1bf9, #061b45);
+    background-size: 100% 500%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+#label {
+    color: rgba(255, 255, 255, 0.681)
+}
